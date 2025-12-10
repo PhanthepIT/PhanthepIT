@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Phanthep Supaveerasathien</h1>
-<h3 align="center">💻Frontend developer from Thailand</h3>
-<img src="https://media.giphy.com/media/WhArBB8hCrVHYdndGF/giphy.gif" alt="Wave Gif" width="100%" height="auto" style="max-width: 600px; max-height: 200px; margin: 0 auto; display: block;">
+<h3 align="center">💻Web Developer</h3>
+<img src="https://postimg.cc/XBx4RGjb" alt="Wave Gif" width="100%" height="auto" style="max-width: 600px; max-height: 200px; margin: 0 auto; display: block;">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=phanthepit&label=Profile%20views&color=0e75b6&style=flat" alt="phanthepit" /> </p>
 
